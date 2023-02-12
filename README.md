@@ -1,6 +1,8 @@
 <br clear="both">
 
-<img align="right" height="" src="https://github.com/achinthajayashan/achinthajayashan/blob/main/messagif-2.gif?raw=true"  />
+<div align="center">
+  <img height="" src="https://github.com/achinthajayashan/achinthajayashan/blob/main/messagif-2.gif?raw=true"  />
+</div>
 
 ###
 
@@ -27,6 +29,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/achintha/achintha/blob/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -46,6 +50,12 @@
   <a href="https://instagram.com/achintha.jayashan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/achintha/count.svg?"  />
 </div>
 
 ###
