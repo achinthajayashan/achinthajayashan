@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="left">
-  <img height="" src="https://github.com/achinthajayashan/achinthajayashan/blob/main/messagif-2.gif?raw=true"  />
-</div>
+<img align="right" height="" src="https://github.com/achinthajayashan/achinthajayashan/blob/main/messagif-2.gif?raw=true"  />
 
 ###
 
