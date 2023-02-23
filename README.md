@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<h6 align="left">🌱 I’m currently learning at IJSE (Institute of Software Engineering) .<br>💬 Ask me about Java , SQL , html , CSS and JavaScript .<br>📫 How to reach me : achintha.uns.2018@gmail.com<br>👨‍💻 All of my projects are available at my github .<br>⚡ Fun fact : I think I am Happy.</h6>
+<h4 align="left">🌱 I’m currently learning at IJSE (Institute of Software Engineering) .<br>💬 Ask me about Java , SQL , html , CSS and JavaScript .<br>📫 How to reach me : achintha.uns.2018@gmail.com<br>👨‍💻 All of my projects are available at my github .<br>⚡ Fun fact : I think I am Happy.</h4>
 
 ###
 
